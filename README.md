@@ -8,7 +8,7 @@ Datum: 	2-11-2017 <br >
 
 In dit portfolio zal het volgende aan bod komen. Als eerst zal in het portfolio een [inleiding](#inleiding) van toepassing zijn. 
 Hierin wordt er uitgelegd wat het project is, wie eraan meewerkt en wat het uiteindelijk doel en streven van het project is. 
-Daarna wordt het onderdeel [Opgeleverde producten](#opgeleverde_producten) besproken. 
+Daarna wordt het onderdeel [opgeleverde producten](#opgeleverde_producten) besproken. 
 Hierin worden de eigen gemaakte producten aangegeven en uitgelegd. 
 Dit zal als volgt zijn, als eerst komen de [notulen & presentaties](#notulen_presentaties) van pas. 
 Daarna zullen de [issues](#github_issues) die in GitHub aangemaakt en opgepakt zijn besproken worden. 
@@ -29,11 +29,11 @@ De auto zal bovendien tot en met 6 personen kunnen vervoeren. De bijdrage aan Ur
 
 Voor de start van het Urbinn project hebben Chris Ros en ik, ons aangeboden om de eerste twee weken te notuleren en om de presentaties te houden. De notulen beschrijven de meest belangrijke informatie die voor die specifieke dag van toepassing is. 
 
-Ook worden de eventuele ideeën en planningen op papier gezet. Bovendien bevatten de presentaties, kort samengevat, wat de bevindingen van de gehele week zijn geweest, wat er is gedaan en wat er in het vervolg gedaan zal worden. De notulen voor Sprint 1: Oriëntatie (week 1 en 2) zijn in de map “Notulen” te vinden. Tot slot zijn de presentaties hiervan in de map “Presentaties” te vinden. 
+Ook worden de eventuele ideeën en planningen op papier gezet. Bovendien bevatten de presentaties, kort samengevat, wat de bevindingen van de gehele week zijn geweest, wat er is gedaan en wat er in het vervolg gedaan zal worden. De notulen voor Sprint 1: Oriëntatie (week 1 en 2) zijn in de map [notulen](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Notulen) te vinden. Tot slot zijn de presentaties hiervan in de map [presentaties](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Presentaties) te vinden. 
 
 ### 2.2 GitHub issues<a name="github_issues"></a>
 
-Om ons scrumproces bij te houden maken wij gebruik van waffle.io. Dit is een handig programma, aangezien het direct issues in GitHub aanmaakt en een link hiermee bevat. Ons scrumboard is hier terug te vinden. De issues die tot nu toe door mij zijn opgepakt en afgerond zijn beschreven in de map “GitHub Issues”.
+Om ons scrumproces bij te houden maken wij gebruik van waffle.io. Dit is een handig programma, aangezien het direct issues in GitHub aanmaakt en een link hiermee bevat. Ons scrumboard is [hier](https://waffle.io/urbinn/urbinn) terug te vinden. De issues die tot nu toe door mij zijn opgepakt en afgerond zijn beschreven in het bestand [GitHub issues](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/blob/master/GitHub%20Issues/GitHub%20-%20Issues.docx).
 
 ### 2.3 Online courses (DataCamp & Coursera) & Jupyter Hub<a name="online_courses"></a>
 
