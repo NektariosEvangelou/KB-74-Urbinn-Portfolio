@@ -35,7 +35,7 @@ Ook worden de eventuele ideeën en planningen op papier gezet. Bovendien bevatte
 
 ### 2.2 GitHub issues<a name="github_issues"></a>
 
-Om ons scrumproces bij te houden maken wij gebruik van waffle.io. Dit is een handig programma, aangezien het direct issues in GitHub aanmaakt en een link hiermee bevat. Ons scrumboard is [hier](https://waffle.io/urbinn/urbinn) terug te vinden. De issues die tot nu toe door mij zijn opgepakt en afgerond zijn beschreven in het bestand [GitHub issues](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/blob/master/GitHub%20Issues/GitHub-Issues.md).
+Om ons scrumproces bij te houden maken wij gebruik van waffle.io. Dit is een handig programma, aangezien het direct issues in GitHub aanmaakt en een link hiermee bevat. Ons scrumboard is [hier](https://waffle.io/urbinn/urbinn) terug te vinden. De issues die tot nu toe door mij zijn opgepakt en afgerond zijn beschreven in het bestand [issues](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/blob/master/Issues.md).
 
 ### 2.3 Online courses (DataCamp & Coursera) & Jupyter Hub<a name="online_courses"></a>
 
