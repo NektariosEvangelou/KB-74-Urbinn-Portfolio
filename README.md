@@ -6,17 +6,17 @@ Datum: 	2-11-2017 <br >
 
 ## Leeswijzer
 
-In dit portfolio zal het volgende aan bod komen. Als eerst zal in het portfolio een inleiding van toepassing zijn. 
+In dit portfolio zal het volgende aan bod komen. Als eerst zal in het portfolio een [inleiding](#inleiding) van toepassing zijn. 
 Hierin wordt er uitgelegd wat het project is, wie eraan meewerkt en wat het uiteindelijk doel en streven van het project is. 
 Daarna wordt het onderdeel [Opgeleverde producten](#opgeleverde_producten) besproken. 
 Hierin worden de eigen gemaakte producten aangegeven en uitgelegd. 
-Dit zal als volgt zijn, als eerst komen de notulen & presentaties van pas. 
-Daarna zullen de issues die in GitHub aangemaakt en opgepakt zijn besproken worden. 
-Ook zullen de verplichte opdrachten van de cursussen in de vorm van screenshots geraadpleegd worden. 
+Dit zal als volgt zijn, als eerst komen de [notulen & presentaties](#notulen_presentaties) van pas. 
+Daarna zullen de [issues](#github_issues) die in GitHub aangemaakt en opgepakt zijn besproken worden. 
+Ook zullen de verplichte opdrachten van de [cursussen](#online_courses) in de vorm van screenshots geraadpleegd worden. 
 Tot slot zal er een onderdeel overige producten van pas komen. 
-Hierin worden overige producten die van toepassing zijn voor dit project besproken.
+Hierin worden de [overige producten](#overige_producten) die van toepassing zijn voor dit project besproken.
 
-## 1.	Inleiding
+## 1.	Inleiding<a name="inleiding"></a>
 
 Het project Urbinn wordt in samenwerking met onder andere de Betafactory, Accenda, het lectoraat Smart Sensor Systems, 6 faculteiten van de HHS en de TU Delft ontwikkeld. 
 Het doel van het project is om een zelfrijdende duurzame stadauto te ontwikkelen die gebruikt zal worden als eventuele sightseeing vervoer voor toeristen, als last-mile voor werknemers in Delft en als taxiservice. 
@@ -25,17 +25,17 @@ De auto zal bovendien tot en met 6 personen kunnen vervoeren. De bijdrage aan Ur
 
 ## 2.	Opgeleverde producten<a name="opgeleverde_producten"></a>
 
-### 2.1	Notulen & Presentaties
+### 2.1	Notulen & Presentaties<a name="notulen_presentaties"></a>
 
 Voor de start van het Urbinn project hebben Chris Ros en ik, ons aangeboden om de eerste twee weken te notuleren en om de presentaties te houden. De notulen beschrijven de meest belangrijke informatie die voor die specifieke dag van toepassing is. 
 
 Ook worden de eventuele ideeën en planningen op papier gezet. Bovendien bevatten de presentaties, kort samengevat, wat de bevindingen van de gehele week zijn geweest, wat er is gedaan en wat er in het vervolg gedaan zal worden. De notulen voor Sprint 1: Oriëntatie (week 1 en 2) zijn in de map “Notulen” te vinden. Tot slot zijn de presentaties hiervan in de map “Presentaties” te vinden. 
 
-### 2.2 GitHub issues
+### 2.2 GitHub issues<a name="github_issues"></a>
 
 Om ons scrumproces bij te houden maken wij gebruik van waffle.io. Dit is een handig programma, aangezien het direct issues in GitHub aanmaakt en een link hiermee bevat. Ons scrumboard is hier terug te vinden. De issues die tot nu toe door mij zijn opgepakt en afgerond zijn beschreven in de map “GitHub Issues”.
 
-### 2.3 Online courses (DataCamp & Coursera) & Jupyter Hub
+### 2.3 Online courses (DataCamp & Coursera) & Jupyter Hub<a name="online_courses"></a>
 
 Voor deze minor zijn er een aantal cursus opdrachten die gemaakt moeten worden. 
 Deze cursussen moeten ons helpen met de loop van het project. 
@@ -60,7 +60,7 @@ De bewijsstukken van de voltooide Coursera cursussen zijn te vinden in de map �
 
 De bewijsstukken van de voltooide Jupyterhub Python Notebooks zijn te vinden in de map “Jupyterhub – Python Notebooks”. Tevens zijn de Spark Notebooks te vinden in de map “Jupyterhub – Spark Notebooks”.
 
-### 2.4 Overige producten
+### 2.4 Overige producten<a name="overige_producten"></a>
 
 Tijdens de minor zijn er een aantal workshops gegeven die betrekking hebben tot de tentamenstof. Hiervoor zijn er samenvatting gemaakt om het uiteindelijke leerproces te bevorderen. De samenvattingen zijn te vinden in de map “Samenvattingen”. 
 
