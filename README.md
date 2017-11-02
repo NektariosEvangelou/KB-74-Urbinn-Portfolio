@@ -50,23 +50,23 @@ Ook moeten er opdrachten worden gemaakt in de vorm van Spark Notebooks. Deze moe
 
 #### 2.3.1 DataCamp
 
-De bewijsstukken van de voltooide DataCamp cursussen zijn te vinden in de map “DataCamp Screenshots”. 
+De bewijsstukken van de voltooide DataCamp cursussen zijn te vinden in de map [DataCamp Screenshots](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/DataCamp%20Screenshots“). 
 
 #### 2.3.2 Coursera 
 
-De bewijsstukken van de voltooide Coursera cursussen zijn te vinden in de map “Coursera Screenshots”. 
+De bewijsstukken van de voltooide Coursera cursussen zijn te vinden in de map [Coursera Screenshots](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Coursera%20Screenshots). 
 
 #### 2.3.3 Jupyterhub 
 
-De bewijsstukken van de voltooide Jupyterhub Python Notebooks zijn te vinden in de map “Jupyterhub – Python Notebooks”. Tevens zijn de Spark Notebooks te vinden in de map “Jupyterhub – Spark Notebooks”.
+De bewijsstukken van de voltooide Jupyterhub Python Notebooks zijn te vinden in de map [Jupyterhub - Python Notebooks](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Jupyterhub%20-%20Python%20Notebooks“). Tevens zijn de Spark Notebooks te vinden in de map [Jupyterhub - Spark Notebooks](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Jupyterhub%20-%20Spark%20Notebooks).
 
 ### 2.4 Overige producten<a name="overige_producten"></a>
 
-Tijdens de minor zijn er een aantal workshops gegeven die betrekking hebben tot de tentamenstof. Hiervoor zijn er samenvatting gemaakt om het uiteindelijke leerproces te bevorderen. De samenvattingen zijn te vinden in de map “Samenvattingen”. 
+Tijdens de minor zijn er een aantal workshops gegeven die betrekking hebben tot de tentamenstof. Hiervoor zijn er samenvatting gemaakt om het uiteindelijke leerproces te bevorderen. De samenvattingen zijn te vinden in de map [samenvattingen](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Samenvattingen). 
 
-Tevens is er een workshop SCRUM gegeven tijdens de aanvang van de minor. Hiervoor was een opdracht op Blackboard te vinden waarin vermeldt moest worden wat voor vragen er zijn over SCRUM (indien deze er waren) en een alinea in eigen woorden uitleggen hoe SCRUM probeert te voldoen aan de waarden van het Agile Manifesto. De uitwerking van de opdracht is te vinden in de map “SCRUM - Workshop”. 
+Tevens is er een workshop SCRUM gegeven tijdens de aanvang van de minor. Hiervoor was een opdracht op Blackboard te vinden waarin vermeldt moest worden wat voor vragen er zijn over SCRUM (indien deze er waren) en een alinea in eigen woorden uitleggen hoe SCRUM probeert te voldoen aan de waarden van het Agile Manifesto. De uitwerking van de opdracht is te vinden in het bestand [Workshop - SCRUM](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/blob/master/SCRUM%20-%20Workshop/Workshop%20-%20SCRUM.docx). 
 
-Ook is er een gast workshop genaamd “The Data Science Unicorn” gehouden door Guido Ongena. Hiervoor werd er een korte opdracht gegeven om een korte presentatie te maken en houden over een bepaald onderwerp om te bekijken wat dit precies met data science te maken had. Deze presentatie is terug te vinden in de map “Presentaties”.
+Ook is er een gast workshop genaamd “The Data Science Unicorn” gehouden door Guido Ongena. Hiervoor werd er een korte opdracht gegeven om een korte presentatie te maken en houden over een bepaald onderwerp om te bekijken wat dit precies met data science te maken had. Deze presentatie is terug te vinden in het bestand [Target & Pregnancy](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/blob/master/SCRUM%20-%20Workshop/Workshop%20-%20SCRUM.docx).
 
 Bovendien zijn er ook een aantal zogeheten close reading sessies gehouden. Dit zijn sessies waarbij er met een persoon die de close reading sessie leidt, aandachtig naar een (of twee) papers wordt gekeken. Hierbij wordt er gekeken naar passages in de tekst die individueel gemarkeerd zijn. Deze markering geeft aan dat diegene het stuk niet begreep of vaag vond. Het doel van de sessie is om door het gehele paper te scannen met de groep om een duidelijk beeld te vormen wat de paper precies inhoudt. 
 
