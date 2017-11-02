@@ -1,0 +1,47 @@
+# GitHub Issues
+
+* Issue 5: Literatuur Scan: LSD-SLAM
+  * In samenwerking met Isa Isaku gemaakt. Voor dit issue is er gekeken naar verschillende soorten papers over LSD-SLAM met verschillende configuraties. Aan de hand van de papers begonnen wij globaal alle papers te lezen en selecteren welke papers potentiële kandidaten zijn voor het project. De papers zijn terug te vinden in de map [LSD-SLAM papers](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Documentatie:Papers/LSD-SLAM%20Papers). 
+
+* Issue 23: Werking LSD-SLAM-algoritme begrijpen
+  * In samenwerking met Isa Isaku en Jeroen Vuurens gemaakt. Na issue 5 is er geprobeerd om de werking van het LSD-SLAM-algoritme de begrijpen en in zicht te brengen. Dit is gedaan door het maken van een korte samenvatting van alle belangrijke papers. De samenvatting is terug te vinden als het volgende [bestand](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/blob/master/Issues/Issue%204%20-%20LSD-SLAM.pdf).
+
+* Issue 28: ORB-SLAM 2 paper bestuderen
+  *	In samenwerking met Kevin van Veen. Voor dit issue is er gekeken naar papers over ORB-SLAM2. Deze zijn in de map “ORB-SLAM2” terug te vinden. Om de werking ervan te vereenvoudigen is er tevens een samenvatting gemaakt om het ORB-SLAM2 algoritme uit te leggen. Deze samenvatting is [hier](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/blob/master/Issues/Issue%2028%20-%20ORB-SLAM2.pdf).
+
+* Issue 34: Camera kalibratie
+  * In samenwerking met Chris Ros, Daniello Doran en Jeffrey van Hoven gemaakt. Tijdens de tweede sprint zijn er door ons camera beelden gemaakt van de slinger. Dit werd gedaan omdat wij het ORB-SLAM2 algoritme wilden uitproberen op een eigen dataset. Voordat deze camera’s de juiste opnames konden maken moest er door middel van een kalibratietool van ROS (Robot Operating System) de camera’s gekalibreerd worden. De camera beelden zijn geschoten door middel van het monteren van twee webcams op een trolley en dan een video opname te maken terwijl er door de gang werd gereden. Alle documentatie hiervan is in de map [camera kalibratie](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Camera%20Kalibratie) terug te vinden (met de exceptie van de daadwerkelijke opnames, aangezien deze de maximale uploadt grootte van GitHub overschrijden).
+  
+* Issue 37: REMODE-onderzoek
+  * In samenwerking met Said De Lanooi gemaakt. Om de werking van REMODE te begrijpen is er gekeken naar het volgende paper in de map “REMODE”. Vervolgens is er een beknopte samenvatting gemaakt om REMODE eenvoudig uit te leggen. Dit document is terug te vinden in het volgende [bestand](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/blob/master/Issues/Issue%2037%20-%20REMODE%20(REgularized%20MOnocular%20Depth%20Estimation)%20Onderzoek.pdf).
+
+* Issue 51: ORB2 extracten points naar .csv file 
+  *	In samenwerking met Daniello Doran is dit issue opgeleverd. Er is samen gekeken naar een reeds bestaande methode die het mogelijk maakte om een map te kunnen extraheren van de KITTI-dataset in ORB-SLAM2. Deze methode is herschreven om de map points (x, y, z-coördinaten) te extracten naar een .csv bestand. 
+
+* Issue 55: Object detection papers lezen
+  * Alle geroepsleden moesten de Object Detection papers lezen die wij voor de close reading sessie hadden gekozen. De twee papers zijn hier te vinden in de map [Real Time Object Detection](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Documentatie:Papers/Real%20Time%20Object%20Detection).
+
+* Issue 58: Beschrijven datastructuur MapPoint in ORB-SLAM2
+  * In samenwerking met Daniello Doran gemaakt. Er is een JavaDoc documentatie stijl aangehouden bij het documenteren van de methodes in de MapPoint.cc klasse. Er is gekeken naar de werking van alle methodes binnen de klasse en daaraan documentatie opgesteld. Ook zijn de eventuele parameters die aanwezig waren en het resultaat wat de methode oplevert gedocumenteerd. 
+
+* Issue 60: Beschrijven structuur KeyFrameDatabase in ORB2
+  * In samenwerking met Daniello Doran gemaakt. Er is een JavaDoc documentatie stijl aangehouden bij het documenteren van de methodes in de KeyFrameDatabase.cc klasse. Er is gekeken naar de werking van alle methodes binnen de klasse en daaraan documentatie opgesteld. Ook zijn de eventuele parameters die aanwezig waren en het resultaat wat de methode oplevert gedocumenteerd.
+
+* Issue 72: Resultaten ORB2 bin exporteren
+  * In samenwerking met Daniello Doran gemaakt. Door in ORB_SLAM2 een sequentie aan foto’s in te laden en het algoritme erop te laten werken, wordt er door ORB een weergave getoond van de gevonden ORBS in de sequentie aan foto’s. Hiervan moest er een .bin bestand geëxporteerd worden wanneer het algoritme klaar was met de bevindingen. Het maken van de export vereiste dat de broncode aangepast moest worden, zodat er na de bevindingen van de orbs, de .bin file geëxporteerd zou worden in een aangegeven map. 
+
+* Issue 82: Yolo training data verzamelen
+  * In samenwerking met Kevin van Veen gemaakt. Om Yolo te trainen moesten er zo veel mogelijke (Europese) datasets worden verzameld. Van de datasets moesten verschillende objecten aanwezig zijn (borden, stoplichten, verkeerstekens etc). Bij deze datasets moest er ook een eventuele Ground Truth aanwezig zijn van de data die al gelabeld was. Alle datasets met labels moesten uiteindelijk ook op de server worden geüpload om er gebruik van te maken in de komende issues. 
+
+* Issue 87: Paper zoeken voor close reading sessie
+  * Voor de volgende close reading sessie moest er een paper gevonden worden over hoe er een semantische map geëvalueerd kan worden. Hiervoor waren er twee potentiële papers gevonden. Deze papers zijn terug te vinden onder de map [Semantic Map Evaluation Papers](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Documentatie:Papers/Semantic%20Map%20Evaluation%20Papers).
+
+* Issue 90: Stereocamera beelden Slinger
+  * In samenwerking met Chris Ros gemaakt. Bij het verkrijgen van de nieuwe ZED-camera die stereo beelden kon schieten, hebben Chris en ik een nieuwe opnames gemaakt van de Slinger. Dit hebben we gedaan om de milestone te gaan behalen door middel van het herkennen van objecten in de Slinger. De beelden zijn geüpload naar de server om gebruikt te worden bij de andere issues.
+
+* Issue 92: Kalibratie camera
+  * In samenwerking met Chris Ros gemaakt. Voordat de nieuwe ZED-camera gebruikt kon worden moest deze gekalibreerd worden. Dit is gedaan door middel van het opzoeken op de website van de camera en het invoeren van het serienummer van de camera. Hiermee kon de camera gekalibreerd zoals de fabrieksinstellingen gekalibreerd worden. 
+
+* Presentatie & notulen week 1 en 2 (sprint 1)
+  * Notulen en presentatie in samenwerking met Chris Ros gemaakt. Chris heeft zich voornamelijk beziggehouden met het opzetten van de presentaties. Bovendien vulde ik, indien het nodig was, de presentatie aan met extra informatie. Ik hield mij iedere dag bezig met het notuleren van de belangrijkste besproken dingen van die dag.
+
