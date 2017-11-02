@@ -1,8 +1,10 @@
 # Portfolio – Urbinn 
 
-Naam:	Nektarios Evangelou <br >
-Studentennummer: 	14085496 <br >
-Datum: 	2-11-2017 <br >
+![alt text](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/blob/master/Portfolio%20Foto's/urbinn_logo.jpg "Urbinn Logo")
+
+**Naam:**	Nektarios Evangelou <br >
+**Studentennummer:** 	14085496 <br >
+**Datum:** 	2-11-2017 <br >
 
 ## Leeswijzer
 
