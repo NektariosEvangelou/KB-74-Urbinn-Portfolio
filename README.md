@@ -52,7 +52,7 @@ Ook moeten er opdrachten worden gemaakt in de vorm van Spark Notebooks. Deze moe
 
 #### 2.3.1 DataCamp
 
-De bewijsstukken van de voltooide DataCamp cursussen zijn te vinden in de map [DataCamp Screenshots](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/DataCamp%20Screenshots“). 
+De bewijsstukken van de voltooide DataCamp cursussen zijn te vinden in de map [DataCamp Screenshots](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Datacamp%20Screenshots). 
 
 #### 2.3.2 Coursera 
 
