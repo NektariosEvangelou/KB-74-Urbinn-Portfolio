@@ -1,16 +1,14 @@
 # Portfolio – Urbinn 
 
-
-
 Naam:	Nektarios Evangelou <br >
 Studentennummer: 	14085496 <br >
-Datum: 	6-10-2017 <br >
+Datum: 	2-11-2017 <br >
 
 ## Leeswijzer
 
 In dit portfolio zal het volgende aan bod komen. Als eerst zal in het portfolio een inleiding van toepassing zijn. 
 Hierin wordt er uitgelegd wat het project is, wie eraan meewerkt en wat het uiteindelijk doel en streven van het project is. 
-Daarna wordt het onderdeel “Opgeleverde producten” besproken. 
+Daarna wordt het onderdeel [Opgeleverde producten](#opgeleverde_producten) besproken. 
 Hierin worden de eigen gemaakte producten aangegeven en uitgelegd. 
 Dit zal als volgt zijn, als eerst komen de notulen & presentaties van pas. 
 Daarna zullen de issues die in GitHub aangemaakt en opgepakt zijn besproken worden. 
@@ -25,7 +23,7 @@ Het doel van het project is om een zelfrijdende duurzame stadauto te ontwikkelen
 
 De auto zal bovendien tot en met 6 personen kunnen vervoeren. De bijdrage aan Urbinn vanuit KB-74 is om camera beelden te gebruiken om de exacte positie en richting van de auto te bepalen en vaste en bewegende obstakels te classificeren zodat deze informatie in een vervolgtraject kan worden gebruikt om het autonoom rijden te onderzoeken.
 
-## 2.	Opgeleverde producten
+## 2.	Opgeleverde producten<a name="opgeleverde_producten"></a>
 
 ### 2.1	Notulen & Presentaties
 
