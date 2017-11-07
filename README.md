@@ -6,6 +6,14 @@
 **Studentennummer:** 	14085496 <br >
 **Datum:** 	2-11-2017 <br >
 
+## Inhoudsopgave
+1. [Inleiding](#inleiding)
+2. [Opgeleverde producten](#opgeleverde_producten) <br >
+  2.1 [Notulen & Presentaties](#notulen_presentaties) <br >
+  2.2 [GitHub issues](#github_issues) <br >
+  2.3 [Online courses (DataCamp, Coursera & Jupyter Hub)](#online_courses)<br >
+  2.4 [Overige producten](#overige_producten)
+
 ## Leeswijzer
 
 In dit portfolio zal het volgende aan bod komen. Als eerst zal in het portfolio een [inleiding](#inleiding) van toepassing zijn. 
@@ -37,7 +45,7 @@ Ook worden de eventuele ideeën en planningen op papier gezet. Bovendien bevatte
 
 Om ons scrumproces bij te houden maken wij gebruik van waffle.io. Dit is een handig programma, aangezien het direct issues in GitHub aanmaakt en een link hiermee bevat. Ons scrumboard is [hier](https://waffle.io/urbinn/urbinn) terug te vinden. De issues die tot nu toe door mij zijn opgepakt en afgerond zijn beschreven in het bestand [issues](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/blob/master/GitHub%20Issues/Issues.md).
 
-### 2.3 Online courses (DataCamp & Coursera) & Jupyter Hub<a name="online_courses"></a>
+### 2.3 Online courses (DataCamp, Coursera & Jupyter Hub)<a name="online_courses"></a>
 
 Voor deze minor zijn er een aantal cursus opdrachten die gemaakt moeten worden. 
 Deze cursussen moeten ons helpen met de loop van het project. 
