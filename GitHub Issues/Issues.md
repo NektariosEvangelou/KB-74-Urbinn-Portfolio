@@ -16,22 +16,22 @@
   * In samenwerking met Said De Lanooi gemaakt. Om de werking van REMODE te begrijpen is er gekeken naar het volgende paper in de map “REMODE”. Vervolgens is er een beknopte samenvatting gemaakt om REMODE eenvoudig uit te leggen. Dit document is terug te vinden in het volgende [bestand](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/blob/master/Issues/Issue%2037%20-%20REMODE%20(REgularized%20MOnocular%20Depth%20Estimation)%20Onderzoek.pdf).
 
 * Issue 51: ORB2 extracten points naar .csv file 
-  *	In samenwerking met Daniello Doran is dit issue opgeleverd. Er is samen gekeken naar een reeds bestaande methode die het mogelijk maakte om een map te kunnen extraheren van de KITTI-dataset in ORB-SLAM2. Deze methode is herschreven om de map points (x, y, z-coördinaten) te extracten naar een .csv bestand. 
+  *	In samenwerking met Daniello Doran is dit issue opgeleverd. Er is samen gekeken naar een reeds bestaande methode die het mogelijk maakte om een map te kunnen extraheren van de KITTI-dataset in ORB-SLAM2. Deze methode is herschreven om de map points (x, y, z-coördinaten) te extracten naar een .csv bestand. **TODO find CSV commit **
 
 * Issue 55: Object detection papers lezen
   * Alle geroepsleden moesten de Object Detection papers lezen die wij voor de close reading sessie hadden gekozen. De twee papers zijn hier te vinden in de map [Real Time Object Detection](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Documentatie:Papers/Real%20Time%20Object%20Detection).
 
 * Issue 58: Beschrijven datastructuur MapPoint in ORB-SLAM2
-  * In samenwerking met Daniello Doran gemaakt. Er is een JavaDoc documentatie stijl aangehouden bij het documenteren van de methodes in de MapPoint.cc klasse. Er is gekeken naar de werking van alle methodes binnen de klasse en daaraan documentatie opgesteld. Ook zijn de eventuele parameters die aanwezig waren en het resultaat wat de methode oplevert gedocumenteerd. 
+  * In samenwerking met Daniello Doran gemaakt. Er is een JavaDoc documentatie stijl aangehouden bij het documenteren van de methodes in de MapPoint.cc klasse. Er is gekeken naar de werking van alle methodes binnen de klasse en daaraan documentatie opgesteld. Ook zijn de eventuele parameters die aanwezig waren en het resultaat wat de methode oplevert gedocumenteerd. **TODO find MapPoint commit ** 
 
 * Issue 60: Beschrijven structuur KeyFrameDatabase in ORB2
-  * In samenwerking met Daniello Doran gemaakt. Er is een JavaDoc documentatie stijl aangehouden bij het documenteren van de methodes in de KeyFrameDatabase.cc klasse. Er is gekeken naar de werking van alle methodes binnen de klasse en daaraan documentatie opgesteld. Ook zijn de eventuele parameters die aanwezig waren en het resultaat wat de methode oplevert gedocumenteerd.
+  * In samenwerking met Daniello Doran gemaakt. Er is een JavaDoc documentatie stijl aangehouden bij het documenteren van de methodes in de KeyFrameDatabase.cc klasse. Er is gekeken naar de werking van alle methodes binnen de klasse en daaraan documentatie opgesteld. Ook zijn de eventuele parameters die aanwezig waren en het resultaat wat de methode oplevert gedocumenteerd. **TODO find KeyFrameDatabase commit **
 
 * Issue 72: Resultaten ORB2 bin exporteren
-  * In samenwerking met Daniello Doran gemaakt. Door in ORB_SLAM2 een sequentie aan foto’s in te laden en het algoritme erop te laten werken, wordt er door ORB een weergave getoond van de gevonden ORBS in de sequentie aan foto’s. Hiervan moest er een .bin bestand geëxporteerd worden wanneer het algoritme klaar was met de bevindingen. Het maken van de export vereiste dat de broncode aangepast moest worden, zodat er na de bevindingen van de orbs, de .bin file geëxporteerd zou worden in een aangegeven map. 
+  * In samenwerking met Daniello Doran gemaakt. Door in ORB_SLAM2 een sequentie aan foto’s in te laden en het algoritme erop te laten werken, wordt er door ORB een weergave getoond van de gevonden ORBS in de sequentie aan foto’s. Hiervan moest er een .bin bestand geëxporteerd worden wanneer het algoritme klaar was met de bevindingen. Het maken van de export vereiste dat de broncode aangepast moest worden, zodat er na de bevindingen van de orbs, de .bin file geëxporteerd zou worden in een aangegeven map. **TODO find export ORB2 commit **
 
 * Issue 82: Yolo training data verzamelen
-  * In samenwerking met Kevin van Veen gemaakt. Om Yolo te trainen moesten er zo veel mogelijke (Europese) datasets worden verzameld. Van de datasets moesten verschillende objecten aanwezig zijn (borden, stoplichten, verkeerstekens etc). Bij deze datasets moest er ook een eventuele Ground Truth aanwezig zijn van de data die al gelabeld was. Alle datasets met labels moesten uiteindelijk ook op de server worden geüpload om er gebruik van te maken in de komende issues. 
+  * In samenwerking met Kevin van Veen gemaakt. Om Yolo te trainen moesten er zo veel mogelijke (Europese) datasets worden verzameld. Van de datasets moesten verschillende objecten aanwezig zijn (borden, stoplichten, verkeerstekens etc). Bij deze datasets moest er ook een eventuele Ground Truth aanwezig zijn van de data die al gelabeld was. Alle datasets met labels moesten uiteindelijk ook op de server worden geüpload om er gebruik van te maken in de komende issues. **TODO find yolo training data document **
 
 * Issue 87: Paper zoeken voor close reading sessie
   * Voor de volgende close reading sessie moest er een paper gevonden worden over hoe er een semantische map geëvalueerd kan worden. Hiervoor waren er twee potentiële papers gevonden. Deze papers zijn terug te vinden onder de map [Semantic Map Evaluation Papers](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Documentatie:Papers/Semantic%20Map%20Evaluation%20Papers).
@@ -40,8 +40,8 @@
   * In samenwerking met Chris Ros gemaakt. Bij het verkrijgen van de nieuwe ZED-camera die stereo beelden kon schieten, hebben Chris en ik een nieuwe opnames gemaakt van de Slinger. Dit hebben we gedaan om de milestone te gaan behalen door middel van het herkennen van objecten in de Slinger. De beelden zijn geüpload naar de server om gebruikt te worden bij de andere issues.
 
 * Issue 92: Kalibratie camera
-  * In samenwerking met Chris Ros gemaakt. Voordat de nieuwe ZED-camera gebruikt kon worden moest deze gekalibreerd worden. Dit is gedaan door middel van het opzoeken op de website van de camera en het invoeren van het serienummer van de camera. Hiermee kon de camera gekalibreerd zoals de fabrieksinstellingen gekalibreerd worden. 
+  * In samenwerking met Chris Ros gemaakt. Voordat de nieuwe ZED-camera gebruikt kon worden moest deze gekalibreerd worden. Dit is gedaan door middel van het opzoeken op de website van de camera en het invoeren van het serienummer van de camera. Hiermee kon de camera gekalibreerd zoals de fabrieksinstellingen gekalibreerd worden. **TODO find file calibration waffle**
 
 * Presentatie & notulen week 1 en 2 (sprint 1)
-  * Notulen en presentatie in samenwerking met Chris Ros gemaakt. Chris heeft zich voornamelijk beziggehouden met het opzetten van de presentaties. Bovendien vulde ik, indien het nodig was, de presentatie aan met extra informatie. Ik hield mij iedere dag bezig met het notuleren van de belangrijkste besproken dingen van die dag.
+  * Notulen en presentatie in samenwerking met Chris Ros gemaakt. Chris heeft zich voornamelijk beziggehouden met het opzetten van de presentaties. Bovendien vulde ik, indien het nodig was, de presentatie aan met extra informatie. Ik hield mij iedere dag bezig met het notuleren van de belangrijkste besproken dingen van die dag. 
 
