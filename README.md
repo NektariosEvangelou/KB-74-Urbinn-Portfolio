@@ -43,7 +43,7 @@ Ook worden de eventuele ideeën en planningen op papier gezet. Bovendien bevatte
 
 ### 2.2 GitHub issues<a name="github_issues"></a>
 
-Om ons scrumproces bij te houden maken wij gebruik van waffle.io. Dit is een handig programma, aangezien het direct issues in GitHub aanmaakt en een link hiermee bevat. Ons scrumboard is [hier](https://waffle.io/urbinn/urbinn) terug te vinden. De issues die tot nu toe door mij zijn opgepakt en afgerond zijn beschreven in het bestand [issues](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/blob/master/GitHub%20Issues/Issues.md).
+Om ons scrumproces bij te houden maken wij gebruik van waffle.io. Dit is een handig programma, aangezien het direct issues in GitHub aanmaakt en een link hiermee bevat. Ons scrumboard is [hier](https://waffle.io/urbinn/urbinn) terug te vinden. De issues die tot nu toe door mij zijn opgepakt en afgerond zijn beschreven in het bestand [issues](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/blob/master/GitHub%20Issues/Issues.md). Issue 86 - Ground truth nieuwe trainingsdata labelen & **TBD** waren een van de meest tijdrovende en uitdagende issues die tijdens dit project waren voorgekomen. Deze issues zijn in het bovenstaande bestand diepgaand besproken en in mijn ogen een van de issues waar ik veel werk aan heb verricht.
 
 ### 2.3 Online courses (DataCamp, Coursera & Jupyter Hub)<a name="online_courses"></a>
 
