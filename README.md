@@ -4,7 +4,15 @@
 
 **Naam:**	Nektarios Evangelou <br >
 **Studentennummer:** 	14085496 <br >
-**Datum:** 	2-11-2017 <br >
+**Datum:** 	10-11-2017 <br >
+
+## Inhoudsopgave
+1. [Inleiding](#inleiding)
+2. [Opgeleverde producten](#opgeleverde_producten) <br >
+  2.1 [Notulen & Presentaties](#notulen_presentaties) <br >
+  2.2 [GitHub issues](#github_issues) <br >
+  2.3 [Online courses (DataCamp, Coursera & Jupyter Hub)](#online_courses)<br >
+  2.4 [Overige producten](#overige_producten)
 
 ## Leeswijzer
 
@@ -37,7 +45,7 @@ Ook worden de eventuele ideeën en planningen op papier gezet. Bovendien bevatte
 
 Om ons scrumproces bij te houden maken wij gebruik van waffle.io. Dit is een handig programma, aangezien het direct issues in GitHub aanmaakt en een link hiermee bevat. Ons scrumboard is [hier](https://waffle.io/urbinn/urbinn) terug te vinden. De issues die tot nu toe door mij zijn opgepakt en afgerond zijn beschreven in het bestand [issues](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/blob/master/GitHub%20Issues/Issues.md).
 
-### 2.3 Online courses (DataCamp & Coursera) & Jupyter Hub<a name="online_courses"></a>
+### 2.3 Online courses (DataCamp, Coursera & Jupyter Hub)<a name="online_courses"></a>
 
 Voor deze minor zijn er een aantal cursus opdrachten die gemaakt moeten worden. 
 Deze cursussen moeten ons helpen met de loop van het project. 
@@ -48,7 +56,7 @@ Deze assignments zijn een verplicht onderdeel voor het portfolio.
 Bovendien zijn er ook een aantal opdrachten in de vorm van Python Notebooks die verplicht gemaakt moeten worden in Jupyterhub. 
 Dit is een open-source webapplicatie die het mogelijk maakt om documenten die live code, vergelijkingen, visualisaties en tekst bevatten, te maken en te delen. 
 Het wordt gebruikt voor onder andere data cleaning and transformation, numerieke simulatie, statistische modelering, data visualisatie en machine learning. 
-Ook moeten er opdrachten worden gemaakt in de vorm van Spark Notebooks. Deze moeten ook gemaakt worden in Jupyterhub. 
+Ook moeten er opdrachten worden gemaakt in de vorm van Spark Notebooks. Spark is een open-source cluster-computing framework die op een snelle wijze grote hoeveelheid data kan verwerken. Deze moeten ook gemaakt worden in Jupyterhub. 
 
 #### 2.3.1 DataCamp
 
@@ -71,5 +79,7 @@ Tevens is er een workshop SCRUM gegeven tijdens de aanvang van de minor. Hiervoo
 Ook is er een gast workshop genaamd “The Data Science Unicorn” gehouden door Guido Ongena. Hiervoor werd er een korte opdracht gegeven om een korte presentatie te maken en houden over een bepaald onderwerp om te bekijken wat dit precies met data science te maken had. Deze presentatie is terug te vinden in het bestand [Target & Pregnancy](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/blob/master/Presentaties/Target%20%26%20Pregnancy.pptx).
 
 Bovendien zijn er ook een aantal zogeheten close reading sessies gehouden. Dit zijn sessies waarbij er met een persoon die de close reading sessie leidt, aandachtig naar een (of twee) papers wordt gekeken. Hierbij wordt er gekeken naar passages in de tekst die individueel gemarkeerd zijn. Deze markering geeft aan dat diegene het stuk niet begreep of vaag vond. Het doel van de sessie is om door het gehele paper te scannen met de groep om een duidelijk beeld te vormen wat de paper precies inhoudt. De papers die gebruikt zijn voor de close reading sessies zijn [hier](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Documentatie:Papers/Close%20Reading%20Papers) te vinden. 
+
+Ook worden er een aantal workshops gegeven genaamd "Calling Bullshit in the age of Data Science". Dit zijn workshops die gaan over de hoeveelheid onzin die in data science rondgaat. Voor deze workshop zijn er een aantal opgaves die gemaakt moeten worden en onderdeel zijn voor de beoordeling van het portfolio. Het document met de opdracht en de uitwerkingen is te vinden in dit <-- TODO document.
 
 Tot slot is er ook een moment geweest waarbij er met de gehele groep is gekeken naar de binnenstad in Delft. Dit werd gedaan om een gevoel te krijgen wat voor situaties er (kunnen) ontstaan wanneer de auto door de stad rijdt. Ook zijn er afbeeldingen gemaakt voor potentiële ingewikkelde situaties voor de auto. Deze afbeeldingen zijn terug te vinden in de map [afbeeldingen Delft](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Afbeeldingen%20Delft). Niet alle afbeeldingen kunnen geüpload worden wegens de grootte van de bestanden, daarom zijn er een aantal gekozen om mee te geven aan het portfolio.  
