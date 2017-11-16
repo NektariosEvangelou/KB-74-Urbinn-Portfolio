@@ -37,7 +37,7 @@ De auto zal bovendien tot en met 6 personen kunnen vervoeren. De bijdrage aan Ur
 
 ### 2.1	Notulen & Presentaties<a name="notulen_presentaties"></a>
 
-Voor de start van het Urbinn project hebben Chris Ros en ik, ons aangeboden om de eerste twee weken te notuleren en om de presentaties te houden. De notulen beschrijven de meest belangrijke informatie die voor die specifieke dag van toepassing is. 
+Voor de start van het Urbinn project hebben Chris Ros en ik, ons aangeboden om de eerste twee weken te notuleren en om de presentaties te houden. De notulen beschrijven de meest belangrijke informatie die voor die specifieke dag van toepassing is. De volgende [notule](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/blob/master/Notulen/Notulen%20(30-08-2017).pdf), is representatief voor de rest van alle notulen. 
 
 Ook worden de eventuele ideeën en planningen op papier gezet. Bovendien bevatten de presentaties, kort samengevat, wat de bevindingen van de gehele week zijn geweest, wat er is gedaan en wat er in het vervolg gedaan zal worden. De notulen voor Sprint 1: Oriëntatie (week 1 en 2) zijn in de map [notulen](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Notulen) te vinden. Tot slot zijn de presentaties hiervan in de map [presentaties](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Presentaties) te vinden. In week 11 en 12 was ik opnieuw verantwoordelijk voor de notulen en presentaties. Deze zijn met ook in de bovenstaande links te vinden. 
 
