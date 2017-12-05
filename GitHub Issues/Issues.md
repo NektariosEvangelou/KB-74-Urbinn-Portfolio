@@ -62,4 +62,4 @@
   * Notulen en presentatie in samenwerking met Chris Ros gemaakt. Chris heeft zich voornamelijk beziggehouden met het opzetten van de presentaties. Bovendien vulde ik, indien het nodig was, de presentatie aan met extra informatie. Ik hield mij iedere dag bezig met het notuleren van de belangrijkste besproken dingen van die dag. 
 
 * Presentatie & notulen week 11 en 12 (sprint 6)
-  * Notulen en presentatie in samenwerking met Kevin van Veen gemaakt. Samen met Kevin hebben wij de presentaties in elkaar gezet en tevens ook de blog geüpdate. Zelf heb ik de notulen en de sprint retrospective bijgehouden.  
+  * Notulen en presentatie in samenwerking met Kevin van Veen gemaakt. Samen met Kevin hebben wij de presentaties in elkaar gezet en tevens ook de blog geüpdate. Zelf heb ik de notulen en de sprint retrospective bijgehouden.  
