@@ -57,6 +57,9 @@
   
 * Issue 129: Labelen evaluatie set Kitti
   * In samenwerking met Kevin van Veen gemaakt. Voor het evalueren van de labels met de KITTI set moesten er 200 foto's gelabeld worden die gebruikt zouden worden als evaluatie. De foto's 7300 - 7390 zijn door mij gelabeld en de foto's 7391 - 7480 waren door Kevin gelabeld. Alle labels zijn [hierin](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Issues/Issue%20129%20-%20Labelen%20evaluatie%20set%20Kitti) terug te vinden. Label 007300.txt is representatief voor alle andere labels. 
+  
+* Issue 131: URB plot trajectory
+  * In samenwerking met Kevin van Veen gemaakt. In jupyterhub is de notebook plot_trajectory aangemaakt, deze is terug te vinden onder /notebooks/urbinn/urb/trajectory/plot_trajectory.ipynb. Er is een stuk code geschreven om te kijken of we met 3 keyframes een trajectory kunnen tekenen met behulp van opencv. Wanneer wij de grafiek wilden plotten werd er een error gegeven. Dit moest worden opgelost door libgtk2.0-dev en pkg-config op de server te installeren. Tevens moet cmake re-runned worden of de configure script in function cvShowImage. Na het ontdekt te hebben dat wij de rotation niet in acht hadden genomen, hebben wij de Python notebooks zo veranderd dat er bij het tekenen van de trajectory hier wel rekening mee werd gehouden. Het resultaat in de vorm van een grafiek van de notebook is [hier]() als afbeelding terug te vinden. 
 
 * Presentatie & notulen week 1 en 2 (sprint 1)
   * Notulen en presentatie in samenwerking met Chris Ros gemaakt. Chris heeft zich voornamelijk beziggehouden met het opzetten van de presentaties. Bovendien vulde ik, indien het nodig was, de presentatie aan met extra informatie. Ik hield mij iedere dag bezig met het notuleren van de belangrijkste besproken dingen van die dag. 
