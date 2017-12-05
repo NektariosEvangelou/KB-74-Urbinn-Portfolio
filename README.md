@@ -41,7 +41,7 @@ Voor de start van het Urbinn project hebben Chris Ros en ik, ons aangeboden om d
 
 Ook worden de eventuele ideeën en planningen op papier gezet. Bovendien bevatten de presentaties, kort samengevat, wat de bevindingen van de gehele week zijn geweest, wat er is gedaan en wat er in het vervolg gedaan zal worden. De notulen voor Sprint 1: Oriëntatie (week 1 en 2) zijn in de map [notulen](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Notulen) te vinden. De presentaties hiervan zijn in de map [presentaties](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Presentaties) terug te vinden. 
 
-In week 11 en 12 was ik samen met Kevin van Veen verantwoordelijk voor de notulen en presentaties. Deze zijn ook in de bovenstaande links te vinden. 
+In week 11 en 12 was ik samen met Kevin van Veen verantwoordelijk voor de notulen en presentaties. Deze zijn ook in de bovenstaande links te vinden. Tot slot is vanaf de tweede sprint besloten om ook een sprint retrospective te documenteren. Hierin wordt er aan het eind van iedere sprint per groepslid een korte evaluatie gedocumenteerd met wat er de huidige sprint positief en negatief was. Dit document is [hier](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/blob/master/Notulen/Urbinn%20-%20Sprint%20Retrospective%20(24-11-2017%20-%20Sprint%206).pdf) terug te vinden.
 
 
 ### 2.2 GitHub issues<a name="github_issues"></a>
