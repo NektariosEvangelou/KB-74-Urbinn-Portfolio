@@ -1,0 +1,16 @@
+3 124 764 193 Tram
+203 185 245 325 Pedestrian
+557 2 595 42 Window
+493 5 527 40 Window
+418 3 460 40 Window
+345 2 385 39 Window
+257 4 304 38 Window
+67 3 116 24 Window
+72 79 124 113 Window
+168 79 219 111 Window
+257 83 312 118 Window
+344 79 388 112 Window
+423 81 459 112 Window
+491 84 530 109 Window
+885 155 940 210 Commandment_to_follow_sign_arrow_D05-R
+267 194 577 237 Fence

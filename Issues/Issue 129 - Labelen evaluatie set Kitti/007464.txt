@@ -1,0 +1,13 @@
+3 197 349 372 Car
+736 156 780 255 Pedestrian
+65 193 116 292 Pedestrian
+408 175 427 225 Pedestrian
+531 175 550 218 Pedestrian
+551 172 572 219 Pedestrian
+495 176 506 203 Pedestrian
+638 34 666 189 Lamppost
+930 69 991 253 Window
+1057 32 1122 284 Window
+445 34 471 71 Window
+448 74 471 111 Window
+836 90 879 119 Window

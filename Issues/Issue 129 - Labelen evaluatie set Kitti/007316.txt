@@ -1,0 +1,7 @@
+1 177 417 375 Car
+436 180 486 211 Car
+676 171 706 192 Car
+735 167 756 188 Car
+361 189 374 221 Guidance_beacon_right
+494 185 500 201 Guidance_beacon_right
+594 153 661 189 Tram

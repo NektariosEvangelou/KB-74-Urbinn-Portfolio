@@ -1,0 +1,16 @@
+760 167 878 214 Car
+4 226 287 368 Car
+991 45 1015 104 Traffic_lights
+138 76 173 140 Traffic_lights
+504 22 522 185 Lamppost
+1064 178 1072 218 Pole
+1112 177 1124 218 Pole
+1173 179 1183 224 Pole
+1184 174 1193 214 Pole
+1000 144 1028 216 Cyclist
+880 154 907 195 Cyclist
+543 170 553 197 Guidance_beacon_right
+566 173 576 194 Guidance_beacon_right
+585 172 594 191 Guidance_beacon_right
+596 171 602 189 Guidance_beacon_right
+519 176 528 199 Guidance_beacon_right

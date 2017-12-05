@@ -1,0 +1,12 @@
+858 5 901 100 Traffic_lights
+950 21 1007 76 Priority_road
+364 179 472 229 Car
+330 173 379 207 Car
+560 174 589 199 Car
+591 172 618 192 Car
+673 177 685 208 Guidance_beacon_left
+648 175 659 200 Guidance_beacon_left
+641 174 648 196 Guidance_beacon_left
+109 245 122 276 Guidance_beacon_right
+211 220 227 251 Guidance_beacon_right
+579 274 679 330 Bicycle_lane

@@ -1,0 +1,8 @@
+493 177 578 252 Car
+181 197 438 345 Car
+434 180 492 212 Car
+599 177 642 216 Car
+579 177 606 206 Car
+657 242 769 373 Continious_lane
+653 175 661 202 Guidance_beacon_left
+646 177 652 196 Guidance_beacon_left

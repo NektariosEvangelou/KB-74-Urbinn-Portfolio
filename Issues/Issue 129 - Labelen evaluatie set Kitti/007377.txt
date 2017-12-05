@@ -1,0 +1,5 @@
+576 180 658 247 Car
+803 159 831 231 Cyclist
+845 181 1242 252 Fence
+4 1 543 374 Tram
+671 185 685 208 Guidance_beacon_right

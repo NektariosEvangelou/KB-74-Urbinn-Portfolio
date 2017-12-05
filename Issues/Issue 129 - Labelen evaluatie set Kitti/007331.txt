@@ -1,0 +1,6 @@
+590 171 622 202 Car
+638 81 648 101 Traffic_lights
+287 181 327 215 Cyclist
+259 179 285 219 Pedestrian
+372 246 561 374 Continious_lane
+716 138 724 158 Traffic_lights

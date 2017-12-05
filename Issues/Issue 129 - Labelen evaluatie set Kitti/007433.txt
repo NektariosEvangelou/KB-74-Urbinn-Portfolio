@@ -1,0 +1,13 @@
+751 66 774 121 Traffic_lights
+123 75 147 135 Traffic_lights
+797 83 834 118 Priority_road
+1128 10 1182 277 Lamppost
+558 169 595 195 Car
+614 164 634 179 Car
+461 171 543 205 Car
+371 169 426 193 Car
+4 198 412 373 Car
+669 173 677 199 Guidance_beacon_left
+650 166 658 191 Guidance_beacon_left
+640 166 647 186 Guidance_beacon_left
+1175 127 1235 276 Fence

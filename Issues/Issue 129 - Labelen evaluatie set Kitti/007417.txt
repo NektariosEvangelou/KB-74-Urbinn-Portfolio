@@ -1,0 +1,4 @@
+210 187 325 243 Car
+639 235 769 282 Continious_lane
+700 332 936 373 Continious_lane
+313 262 544 371 Continious_lane

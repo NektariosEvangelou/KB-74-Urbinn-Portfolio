@@ -1,0 +1,5 @@
+4 91 99 352 Van
+280 184 296 230 Guidance_beacon_right
+425 183 434 210 Guidance_beacon_right
+483 181 490 202 Guidance_beacon_right
+588 182 605 195 Car

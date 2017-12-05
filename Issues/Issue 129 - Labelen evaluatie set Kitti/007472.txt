@@ -1,0 +1,5 @@
+559 181 582 195 Car
+577 178 592 190 Car
+650 256 787 375 Continious_lane
+352 283 542 373 Continious_lane
+66 306 319 372 Continious_lane

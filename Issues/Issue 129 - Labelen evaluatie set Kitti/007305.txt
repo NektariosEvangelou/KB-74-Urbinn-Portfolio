@@ -1,0 +1,5 @@
+884 184 1079 273 Car
+55 147 236 206 Truck
+654 106 665 127 Traffic_lights
+748 149 757 168 Traffic_lights
+558 139 567 157 Traffic_lights

@@ -1,0 +1,14 @@
+525 177 736 370 Car
+368 179 535 236 Car
+20 200 168 256 Car
+334 183 370 207 Car
+958 177 1085 219 Car
+1102 167 1242 227 Car
+783 201 819 257 Guidance_beacon
+728 51 764 84 Priority_road
+958 139 997 173 Give_way_sign
+935 87 957 135 Traffic_lights
+733 89 753 142 Traffic_lights
+174 172 283 222 Van
+598 2 630 29 Traffic_lights
+392 96 407 120 Traffic_lights

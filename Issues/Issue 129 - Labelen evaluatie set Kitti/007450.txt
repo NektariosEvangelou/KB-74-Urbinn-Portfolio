@@ -1,0 +1,3 @@
+653 95 718 150 Warning_for_children
+879 237 896 307 Pole
+531 191 605 221 Car

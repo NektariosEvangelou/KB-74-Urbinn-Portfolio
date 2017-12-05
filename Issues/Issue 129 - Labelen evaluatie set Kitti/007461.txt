@@ -1,0 +1,4 @@
+326 191 479 290 Car
+638 230 776 375 Continious_lane
+354 285 553 377 Continious_lane
+75 305 284 373 Continious_lane

@@ -1,0 +1,14 @@
+864 148 920 289 Pedestrian
+744 151 785 237 Pedestrian
+298 169 336 255 Pedestrian
+464 163 495 262 Pedestrian
+569 165 605 261 Pedestrian
+535 166 555 216 Pedestrian
+508 169 540 249 Cyclist
+738 31 770 64 Forbidden_to_park
+383 190 413 240 Person_sitting
+415 189 439 225 Person_sitting
+440 194 463 240 Person_sitting
+1007 57 1062 248 Window
+1061 52 1145 248 Window
+356 22 403 106 Window

@@ -1,0 +1,8 @@
+338 181 416 215 Car
+700 176 735 203 Car
+661 111 671 123 Traffic_lights
+924 108 958 138 Priority_road
+17 34 52 85 Window
+52 44 80 85 Window
+80 44 107 96 Window
+107 58 133 96 Window

@@ -1,0 +1,8 @@
+856 155 901 241 Cyclist
+566 174 673 269 Car
+2 2 498 375 Tram
+912 184 1239 255 Fence
+666 181 677 198 Guidance_beacon_left
+586 90 595 105 Traffic_lights
+597 89 603 109 Traffic_lights
+607 90 615 105 Traffic_lights

@@ -1,0 +1,9 @@
+231 185 342 246 Car
+4 181 206 274 Car
+576 176 621 218 Car
+355 141 513 248 Van
+490 124 563 207 Truck
+3 14 173 374 Van
+148 144 180 174 Warning_for_constructions
+345 266 538 375 Continious_lane
+646 137 681 169 Warning_for_constructions

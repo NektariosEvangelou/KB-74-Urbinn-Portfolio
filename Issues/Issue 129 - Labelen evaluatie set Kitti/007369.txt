@@ -1,0 +1,11 @@
+843 161 894 207 Commandment_to_follow_sign_arrow_D05-R
+207 194 253 317 Pedestrian
+4 123 757 196 Tram
+559 2 588 50 Window
+493 2 528 46 Window
+422 1 463 48 Window
+346 4 390 50 Window
+262 1 314 49 Window
+175 0 228 44 Window
+87 2 140 40 Window
+287 199 509 227 Fence

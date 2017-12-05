@@ -1,0 +1,3 @@
+718 168 754 228 Cyclist
+465 165 493 215 Pedestrian
+488 117 504 210 Window

@@ -1,0 +1,4 @@
+510 184 553 217 Car
+656 243 847 378 Continious_lane
+407 258 554 372 Continious_lane
+46 278 360 373 Continious_lane

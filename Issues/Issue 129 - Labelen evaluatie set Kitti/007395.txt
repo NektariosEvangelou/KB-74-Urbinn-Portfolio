@@ -1,0 +1,4 @@
+555 181 613 224 Car
+311 199 508 322 Car
+658 181 669 217 Guidance_beacon_left
+544 181 552 214 Guidance_beacon_right

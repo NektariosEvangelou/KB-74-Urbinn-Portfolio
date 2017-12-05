@@ -1,0 +1,13 @@
+711 176 756 198 Car
+487 166 513 189 Truck
+646 170 668 189 Van
+624 174 639 185 Car
+913 185 925 212 Guidance_beacon_left
+311 4 362 100 Traffic_lights
+1130 185 1150 215 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+605 181 622 198 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+149 187 167 208 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+610 4 618 191 Lamppost
+593 82 600 180 Lamppost
+280 143 297 160 Priority_crossing_point
+801 152 814 166 Give_way_sign

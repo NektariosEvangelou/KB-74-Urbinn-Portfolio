@@ -1,0 +1,5 @@
+484 191 499 236 Guidance_beacon_right
+675 189 687 232 Guidance_beacon_left
+404 133 420 198 Lamppost
+476 152 490 190 Lamppost
+1111 147 1147 235 Pedestrian

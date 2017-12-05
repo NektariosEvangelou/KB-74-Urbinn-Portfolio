@@ -1,0 +1,7 @@
+387 233 549 377 Continious_lane
+253 83 483 279 Van
+474 153 544 218 Van
+522 131 572 198 Truck
+581 175 622 209 Car
+11 187 249 281 Car
+631 152 654 174 Warning_for_constructions
