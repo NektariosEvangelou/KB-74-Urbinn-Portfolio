@@ -48,7 +48,18 @@
   
 * Issue 93: Trainen tiny YOLO maandag nacht
   * In samenwerking met Kevin van Veen gemaakt. Het trainen van YOLO vereist veel werk vooraf. Zo moet er bijvoorbeeld meerdere klassen worden toegevoegd **TODO add description**
+  
+* Issue 98: YOLO config file beschrijven
+  * In samenwerking met Kevin van Veen gemaakt. Om een duidelijker beeld te krijgen voor de configuratie van tiny-yolo die gebruikt wordt bij het trainen, is er besloten om de configuratie zo veel mogelijk te beschrijven. Dit excel bestand is als pdf [hier]() terug te vinden. 
+  
+* Issue 115: Plan opnames Delft: Uitzoeken GPS
+  * In samenwerking met Kevin van Veen gemaakt. Het idee was om per afbeelding in opnames van Delft ook GPS data op te nemen. Hoe we dit wilden doen moest uitgezocht worden. Samen met Kevin gingen we opzoek naar GPS-tracking applicatie die beschikbaar waren voor smartphones. Daarmee kwamen we tot de conclusie dat er een applicatie genaamd [GPS Logger App](https://play.google.com/store/apps/details?id=eu.basicairdata.graziano.gpslogger&hl=nl) vele voordelen biedt voor dit probleem. Het kan namelijk onder andere real time GPS coördinaten loggen, het bevat de timestamps en het kan de output exporteren naar KML, GPX en TXT formaat. Na nader overleg kwamen we tot de conclusie dat de timestamps van de GPS Logger misschien niet goed gematched konden wordne aan de opnames, dus onbetrouwbare resultaten zouden opleveren. Om dit probleem op te lossen vonden we  een applicatie die op de computer gerunned kon worden genaamd [HoudahGeo](https://www.houdah.com/houdahGeo/). Deze applicatie heeft wel een betaalde licentie nodig van $34,-. Uiteindelijk na lang overleg is er besloten om toch geen gebruik te maken van GPS als evaluatie voor eventuele latere correctie. 
+  
+* Issue 129: Labelen evaluatie set Kitti
+  * In samenwerking met Kevin van Veen gemaakt. Voor het evalueren van de labels met de KITTI set moesten er 200 foto's gelabeld worden die gebruikt zouden worden als evaluatie. De foto's 7300 - 7390 zijn door mij gelabeld en de foto's 7391 - 7480 waren door Kevin gelabeld. Alle labels zijn [hierin]() terug te vinden.
 
 * Presentatie & notulen week 1 en 2 (sprint 1)
   * Notulen en presentatie in samenwerking met Chris Ros gemaakt. Chris heeft zich voornamelijk beziggehouden met het opzetten van de presentaties. Bovendien vulde ik, indien het nodig was, de presentatie aan met extra informatie. Ik hield mij iedere dag bezig met het notuleren van de belangrijkste besproken dingen van die dag. 
 
+* Presentatie & notulen week 11 en 12 (sprint 6)
+  * Notulen en presentatie in samenwerking met Kevin van Veen gemaakt. Samen met Kevin hebben wij de presentaties in elkaar gezet en tevens ook de blog geüpdate. Zelf heb ik de notulen en de sprint retrospective bijgehouden.  
