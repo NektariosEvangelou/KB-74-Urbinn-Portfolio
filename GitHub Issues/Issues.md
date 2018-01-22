@@ -29,6 +29,9 @@
 
 * Issue 72: Resultaten ORB2 bin exporteren
   * In samenwerking met Daniello Doran gemaakt. Door in ORB_SLAM2 een sequentie aan foto’s in te laden en het algoritme erop te laten werken, wordt er door ORB een weergave getoond van de gevonden ORBS in de sequentie aan foto’s. Hiervan moest er een .bin bestand geëxporteerd worden wanneer het algoritme klaar was met de bevindingen. Het maken van de export vereiste dat de broncode aangepast moest worden, zodat er na de bevindingen van de orbs, de .bin file geëxporteerd zou worden in een aangegeven map. De gemaakte code is terug te vinden in [deze](https://github.com/urbinn/orb2/commit/48eddc4ac138f6492faee733946ab7e1768cda9f) commit.
+  
+* Issue 74: Yolo run KITTI evalueren tegen ground truth object 2D task
+  * In samenwerking met Chris Ros en Kevin van Veen gemaakt. 
 
 * Issue 82: Yolo training data verzamelen
   * In samenwerking met Kevin van Veen gemaakt. Om Yolo te trainen moesten er zo veel mogelijke (Europese) datasets worden verzameld. Van de datasets moesten verschillende objecten aanwezig zijn (borden, stoplichten, verkeerstekens etc). Bij deze datasets moest er ook een eventuele Ground Truth aanwezig zijn van de data die al gelabeld was. Alle datasets met labels moesten uiteindelijk ook op de server worden geüpload om er gebruik van te maken in de komende issues. De dataset zijn terug te vinden op de server onder "/data/urbinn/datasets".
@@ -40,6 +43,9 @@
 * Issue 87: Paper zoeken voor close reading sessie
   * Voor de volgende close reading sessie moest er een paper gevonden worden over hoe er een semantische map geëvalueerd kan worden. Hiervoor waren er twee potentiële papers gevonden. Deze papers zijn terug te vinden onder de map [Semantic Map Evaluation Papers](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Documentatie:Papers/Semantic%20Map%20Evaluation%20Papers).
 
+* Issue 89: Import XML data (pointcloud) ORB-SLAM2
+  * In samenwerking met Daniello Doran.
+  
 * Issue 90: Stereocamera beelden Slinger
   * In samenwerking met Chris Ros gemaakt. Bij het verkrijgen van de nieuwe ZED-camera die stereo beelden kon schieten, hebben Chris en ik een nieuwe opnames gemaakt van de Slinger. Dit hebben we gedaan om de milestone te gaan behalen door middel van het herkennen van objecten in de Slinger. De beelden zijn geüpload naar de server om gebruikt te worden bij de andere issues.
 
@@ -67,8 +73,11 @@
 * Issue 135: Analyseren van Sequence 01 van de KITTI dataset
   * In samenwerking met Kevin van Veen gemaakt. De sequence 01 van KITTI moest geanalyseerd worden. Aangezien er problemen waren met het tekenen van de trajectory met behulp van URB, grote afwijkingen vergeleken de ground truth, moest er gekeken worden bij welke frames van de sequentie het fout gaat. Door dit in kaart te brengen en bij te houden kan er geëxperimenteerd worden met de configuratie van URB, bijvoorbeeld de tresholds, Local Bundle Adjustment en het filteren van ruis. Het excel bestand met de resultaten van de gebruikte configuraties zijn [hier]() **TODO Link** te vinden. Met behulp van deze analyse wilden wij kijken of de problemen op te lossen waren door de configuraties van URB aan te passen, mocht dit niet het geval zijn dan moeten wij Local Bundle Adjustment erop toepassen om te controleren of de trajectory beter wordt getekend. 
   
-* Issue 136: Full BA code schrijven
-  * In samenwerking met Daniello Doran en Said De Lanooi gemaakt. **In Progress**
+* Issue 152: Paper 1. Introduction
+  * In samenwerking met Viradj Ramlochwan Tewarie, Bob van Elburg en Isa Isaku gemaakt. De introductie van het paper bevat een onderdeel over het gebruik van autonoom rijdende auto's en de trend in het onderzoek ervan. Tevens is er een klein stuk geschreven over het doel van Urbinn voor autonoom rijdenden auto's. De gehele introductie is eerst door Viradj en ik geschreven en is door de rest zo nodig aangepast om het voor het paper passend te maken. Het paper is [hier]() te vinden. **TODO Link*
+  
+* Issue 153: Paper 2. Related Work
+  * In samenwerking met Viradj Ramlochwan Tewarie, Bob van Elburg, Kevin van Veen en Isa Isaku gemaakt. Voor het paper van Urbinn was het nodig om een korte beschrijving te geven wat betreft het SLAM algoritme, de korte beschrijving over de verschillende SLAM algoritmes welke onderzocht waren voor het project en een korte beschrijving geven over het gebied van object detectie. Bovendien moest er nog een onderdeel geschreven worden over de related work op het gebied van semantic mapping. Zelf heb ik de SLAM algoritmes ORB-SLAM2, SVO-SLAM en LSD-SLAM en het deel over object detectie wat betreft YOLO geschreven. De rest hebben mij geholpen met het herschrijven van deze alinea's. Het paper is [hier]() te vinden. **TODO Link*
 
 * Presentatie & notulen week 1 en 2 (sprint 1)
   * Notulen en presentatie in samenwerking met Chris Ros gemaakt. Chris heeft zich voornamelijk beziggehouden met het opzetten van de presentaties. Bovendien vulde ik, indien het nodig was, de presentatie aan met extra informatie. Ik hield mij iedere dag bezig met het notuleren van de belangrijkste besproken dingen van die dag. 
