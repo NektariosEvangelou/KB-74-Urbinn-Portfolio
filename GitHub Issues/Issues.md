@@ -44,7 +44,7 @@
   * Voor de volgende close reading sessie moest er een paper gevonden worden over hoe er een semantische map geëvalueerd kan worden. Hiervoor waren er twee potentiële papers gevonden. Deze papers zijn terug te vinden onder de map [Semantic Map Evaluation Papers](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Documentatie:Papers/Semantic%20Map%20Evaluation%20Papers).
 
 * Issue 89: Import XML data (pointcloud) ORB-SLAM2
-  * In samenwerking met Daniello Doran. De pointcloud van de geëxporteerde resultaten van ORB-SLAM2 moesten ook weer geïmporteerd kunnen worden als XML data in ORB-SLAM2. Hiervoor moest de XML structuur van de export nagemaakt worden in code om deze in het systeem weer in te lezen. De gemaakte code voor deze issue is [hier](https://github.com/urbinn/orb2/commits/Save/Load) terug te vinden.
+  * In samenwerking met Daniello Doran. De pointcloud van de geëxporteerde resultaten van ORB-SLAM2 moesten ook weer geïmporteerd kunnen worden als XML data in ORB-SLAM2. Hiervoor moest de XML structuur van de export nagemaakt worden in code om deze in het systeem weer in te lezen. De gemaakte code voor deze issue is [hier](https://github.com/urbinn/orb2/commits/Save/Load) terug te vinden.
   
 * Issue 90: Stereocamera beelden Slinger
   * In samenwerking met Chris Ros gemaakt. Bij het verkrijgen van de nieuwe ZED-camera die stereo beelden kon schieten, hebben Chris en ik een nieuwe opnames gemaakt van de Slinger. Dit hebben we gedaan om de milestone te gaan behalen door middel van het herkennen van objecten in de Slinger. De beelden zijn geüpload naar de server om gebruikt te worden bij de andere issues.
