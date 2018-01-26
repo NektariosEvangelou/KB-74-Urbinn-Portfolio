@@ -81,7 +81,19 @@
   
 * Issue 154: Paper 3. Design
   * In samenwerking met Viradj Ramlochwan Tewarie, Bob van Elburg, Kevin van Veen en Isa Isaku gemaakt. Voor het onderdeel "Design" van het paper moest er een beschrijving komen die aangaf wat onze aanpak voor het project was. Hiervoor moesten we een beschrijving geven op het gebied van landmark detection aan de hand van vertical edges. Hier moest ook onderzocht worden of er al nader onderzoek op dit gebied was gedaan. Tot slot moest er een beschrijving komen voor de locatiebepaling van objecten door combinatie YOLO en URB. Dit onderdeel is voor het grootste gedeelte door Kevin en mij gemaakt. Het paper is [hier]() te vinden. **TODO Link**
+  
+* Issue 155: Paper 4. Experiment
+  * In samenwerking met Viradj Ramlochwan Tewarie, Bob van Elburg, Kevin van Veen en Isa Isaku gemaakt. Voor het onderdeel "Experiment" van het paper moest er beschreven worden wat voor een experiment wij hadden gedaan om ons algoritme te testen. Dit was gedaan door middel van de KITTI-dataset. Het paper is [hier]() te vinden. **TODO Link**
+  
+* Issue 157: Paper 5. Results
+  * In samenwerking met Viradj Ramlochwan Tewarie, Bob van Elburg, Kevin van Veen en Isa Isaku gemaakt. Voor het onderdeel "Results" van het paper moest er beschreven worden wat voor de resultaten van het experiment waren. Deze resultaten gingen wij vergelijken aan de hand van de ground truth van de KITTI-dataset. Het paper is [hier]() te vinden. **TODO Link**
 
+* Issue 158: Paper 6. Discussion
+  * In samenwerking met Viradj Ramlochwan Tewarie, Bob van Elburg, Kevin van Veen en Isa Isaku gemaakt. Voor het onderdeel "Discussion" gaan wij discussieren over de verbeteringen van ons algoritme en over de toekomstige stappen die ondernomen kunnen worden om dit te verbeteren. De discussie is voor het grootste gedeelte door Kevin, Viradj en ik gemaakt. Het paper is [hier]() te vinden. **TODO Link**
+  
+* Issue 159: Paper 7. Conclusion
+  * In samenwerking met Viradj Ramlochwan Tewarie, Bob van Elburg, Kevin van Veen en Isa Isaku gemaakt. Voor het onderdeel "Conclusion" beschrijven wij de conclusie van ons onderzoek. De conclusie is voornamelijk door mij en Kevin gemaakt. Het paper is [hier]() te vinden. **TODO Link**
+  
 * Presentatie & notulen week 1 en 2 (sprint 1)
   * Notulen en presentatie in samenwerking met Chris Ros gemaakt. Chris heeft zich voornamelijk beziggehouden met het opzetten van de presentaties. Bovendien vulde ik, indien het nodig was, de presentatie aan met extra informatie. Ik hield mij iedere dag bezig met het notuleren van de belangrijkste besproken dingen van die dag. De notulen van de eerste sprint zijn te vinden in de map [notulen](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Notulen) en de presentaties zijn in de map [presentaties](https://github.com/NektariosEvangelou/KB-74-Urbinn-Portfolio/tree/master/Presentaties) terug te vinden.
 
