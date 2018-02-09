@@ -4,7 +4,7 @@
 
 **Naam:**	Nektarios Evangelou <br >
 **Studentennummer:** 	14085496 <br >
-**Datum:** 	26-01-2018 <br >
+**Datum:** 	13-02-2018 <br >
 
 ## Inhoudsopgave
 1. [Inleiding](#inleiding)
