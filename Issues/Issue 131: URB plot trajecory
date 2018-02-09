@@ -118,10 +118,6 @@ img = show2(draw(coords, new_image()), p)
 
 ```
 
-
-![png](output_4_0.png)
-
-
 convert frame positions to image coordinates
 
 
